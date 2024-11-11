@@ -1,16 +1,3 @@
 # app_mercado
+This Flutter project is a market app where users can log in and create a list of items to manage their shopping. Users can add items with specified quantities, view the total value of all items in the list, and easily remove items as needed. The app provides a user-friendly interface for managing shopping lists efficiently.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
